@@ -133,7 +133,7 @@ Unit tests
 
 Installation
 1. Clone Repository
-git clone https://github.com/YOUR_USERNAME/notification-system.git
+git clone https://github.com/Aakash-2310/notification-system.git
 cd notification-system
 
 2. Create Virtual Environment
@@ -164,4 +164,5 @@ worker.py
 notification_queue.py
 requirements.txt
 README.md
+
 
