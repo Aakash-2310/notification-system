@@ -1,4 +1,4 @@
-eal-Time Notification System (FastAPI)
+Real-Time Notification System (FastAPI)
 Overview
 
 This project is a Real-Time Notification System built using FastAPI. It supports:
@@ -164,3 +164,4 @@ worker.py
 notification_queue.py
 requirements.txt
 README.md
+
